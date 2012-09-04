@@ -28,22 +28,13 @@ h2{
 }
 
 
-p{
-	color: gray;
-	text-align: justify;
-	line-height: 35px;
-	font-family: 'Revalia', cursive;	
-	padding: 10px;
-	margin: 0px 20px 0px 280px;
-	font-size: 12px;
-	
-}
+
 
 
 ol{
 	width:200px;
 	margin: 0 auto;
-	float: none;
+	float: center;
 	font-family: 'Quantico', sans-serif;
 	color: red;
 }
@@ -52,3 +43,56 @@ ol{
 h2{
 	color: red;
 }
+
+
+.urban_dreams{
+	margin-right: 30px;
+	margin-left: 300px;
+	float: center;
+	
+}
+
+
+ul{
+	width:0px;
+	margin: 0 auto;
+	list-style-type: none;
+	float: left;
+	font-family: 'Quantico', sans-serif;
+
+}
+
+a{
+	color: rgb(233, 132, 48);
+	text-decoration: none;
+	background: none;
+	font-size: 20px;
+	line-height: 80px;
+	border-radius: 5px;
+	padding: 0px;
+}
+
+
+a:hover{
+	color: white;
+	background: rgb(233, 132, 48);
+	}
+
+.main_nav{
+	margin: 0px;
+}
+
+.fb_tw{
+	margin-left: 280px;
+	float: top;
+}
+
+
+aside{
+	padding-left: 8px;
+}
+
+.copyright{
+	text-align: center;
+}
+
