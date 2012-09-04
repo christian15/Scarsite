@@ -5,98 +5,11 @@ body{
 }
 
 
-
-
-
-
-
 h1{
+	font-size: 30px;
 	font-family: 'Plaster', cursive;
 	color: white;
 	padding-left: 40px;
 	text-shadow: -2px -2px 5px #e98430
-}
-
-h1{
-	font-size: 30px;
-}
-
-h2{
-	margin: 0px 20px 0px 280px;
-	color: grey;
-	font-size: 25px;
-	font-family: 'Russo One', sans-serif;
-	padding-bottom: 20px;
-}
-
-h3{
-	color: grey;
-	margin: 0px 0px 0px 450px;
-	padding-bottom: 16px
-}
-
-
-
-
-
-ol{
-	width:200px;
-	margin: 0 auto;
-	float: center;
-	font-family: 'Quantico', sans-serif;
-	color: red;
-}
-
-
-
-.urban_dreams{
-	margin-right: 30px;
-	margin-left: 300px;
-	float: center;
-	
-}
-
-
-ul{
-	width:0px;
-	margin: 0 auto;
-	list-style-type: none;
-	float: left;
-	font-family: 'Quantico', sans-serif;
-
-}
-
-a{
-	color: rgb(233, 132, 48);
-	text-decoration: none;
-	background: none;
-	font-size: 20px;
-	line-height: 80px;
-	border-radius: 5px;
-	padding: 0px;
-}
-
-
-a:hover{
-	color: white;
-	background: rgb(233, 132, 48);
-	}
-
-.main_nav{
-	margin: 0px;
-}
-
-.fb_tw{
-	margin-left: 280px;
-	float: top;
-}
-
-
-aside{
-	padding-left: 8px;
-}
-
-.copyright{
-	text-align: center;
 }
 
