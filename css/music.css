@@ -1,9 +1,9 @@
+
 body{
 	background-image: url("../images/black-bg.jpg");
 	background-attachment: scroll;
 	margin: 0 150px;
 }
-
 
 h1{
 	font-size: 30px;
@@ -13,3 +13,21 @@ h1{
 	text-shadow: -2px -2px 5px #e98430
 }
 
+
+h2{
+	color: white;
+	margin: 0px 0px 0px 300px;
+	padding-bottom: 10px
+}
+
+.urban_dreams{
+	margin: 0px 10px 0px 300px;
+}
+
+h3{
+	margin: 0px 10px 0px 300px;
+}
+
+ol{
+	margin: 0px 10px 0px 300px;
+}
