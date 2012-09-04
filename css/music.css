@@ -1,0 +1,54 @@
+body{
+	background-image: url("../images/black-bg.jpg");
+	background-attachment: scroll;
+	margin: 0 150px;
+}
+
+
+
+
+
+
+
+h1{
+	font-family: 'Plaster', cursive;
+	color: white;
+	padding-left: 40px;
+	text-shadow: -2px -2px 5px #e98430
+}
+
+
+h2{
+	margin: 0px 20px 0px 280px;
+	color: gray;
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	padding-bottom: 20px;
+	
+}
+
+
+p{
+	color: gray;
+	text-align: justify;
+	line-height: 35px;
+	font-family: 'Revalia', cursive;	
+	padding: 10px;
+	margin: 0px 20px 0px 280px;
+	font-size: 12px;
+	
+}
+
+
+ol{
+	width:200px;
+	margin: 0 auto;
+	float: none;
+	font-family: 'Quantico', sans-serif;
+	color: red;
+}
+
+
+h2{
+	color: red;
+}
