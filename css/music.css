@@ -22,6 +22,7 @@ ul{
 	font-family: 'Quantico', sans-serif;
 }
 
+
 a{
 	color: rgb(233, 132, 48);
 	text-decoration: none;
@@ -40,8 +41,10 @@ a:hover{
 
 
 h2{
-	color: green;
-	margin: 0px 0px 0px 300px;
+	color: grey;
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	margin: 0px 0px 0px 280px;
 	padding-bottom: 10px
 }
 
@@ -56,5 +59,6 @@ h3{
 
 ol{
 	margin: 0px 10px 0px 300px;
-	color: red;
+	color: grey;
+	font-family: 'Quantico', sans-serif;
 }
