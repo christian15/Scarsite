@@ -16,7 +16,7 @@ h1{
 
 ul{
 	width:0px;
-	margin: 51px 0px 0px 0px;
+	margin: 51px -100px 0px 0px;
 	list-style-type: none;
 	float: left;
 	font-family: 'Quantico', sans-serif;
@@ -45,20 +45,29 @@ h2{
 	font-size: 25px;
 	font-family: 'Russo One', sans-serif;
 	margin: 0px 0px 0px 280px;
-	padding-bottom: 10px
+	padding-bottom: 0px
 }
 
 .urban_dreams{
-	margin: 0px 10px 0px 300px;
+	margin: 0px 0px 0px 280px;
+	padding: 25px 456px 0px 10px;
+	float: left;
+	background-color: rgba(233, 132, 48, .3)
 }
 
 h3{
-	margin: 0px 10px 0px 300px;
+	margin: 0px 10px 0px 280px;
+	padding: 0px 0px 10px 0px;
 	color: blue;
+	background-color:rgba(233, 132, 48,.3);
+	float: left;
+	width: 816px;
 }
 
 ol{
-	margin: 0px 10px 0px 300px;
+	margin: 0px 29px 0px 280px;
 	color: grey;
 	font-family: 'Quantico', sans-serif;
+	background-color:rgba(233, 132, 48,.3);
+	clear: left;
 }
