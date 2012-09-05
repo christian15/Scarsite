@@ -13,9 +13,20 @@ h1{
 	text-shadow: -2px -2px 5px #e98430
 }
 
+ul{
+	width:0px;
+	margin: 200px 0px 0px 0px;
+	list-style-type: none;
+	float: left;
+	font-family: 'Quantico', sans-serif;
+}
+
+
+}
+
 
 h2{
-	color: white;
+	color: green;
 	margin: 0px 0px 0px 300px;
 	padding-bottom: 10px
 }
@@ -26,8 +37,10 @@ h2{
 
 h3{
 	margin: 0px 10px 0px 300px;
+	color: blue;
 }
 
 ol{
 	margin: 0px 10px 0px 300px;
+	color: red;
 }
