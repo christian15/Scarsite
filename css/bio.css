@@ -11,3 +11,46 @@ h1{
 	padding-left: 40px;
 	text-shadow: -2px -2px 5px #e98430
 }
+
+h2{
+	color: grey;
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	margin: 0px 0px 0px 280px;
+	padding-bottom: 20px
+}
+
+ul{
+	width:0px;
+	margin: 51px -100px 0px 0px;
+	list-style-type: none;
+	float: left;
+	font-family: 'Quantico', sans-serif;
+}
+
+img{
+	margin: 0px 0px 0px 280px;
+	float: none;
+}
+
+a{
+	color: rgb(233, 132, 48);
+	text-decoration: none;
+	background: none;
+	font-size: 20px;
+	line-height: 80px;
+	border-radius: 5px;
+	padding: 0px;
+}
+
+a:hover{
+	color: white;
+	background: rgb(233, 132, 48);
+}
+
+article{
+	border: 3px;
+	background-color:rgba(233, 132, 48,.3);
+	margin: 0px 29px 0px 280px;
+	padding: 0px 0px 20px 60px;
+}
