@@ -28,11 +28,6 @@ ul{
 	font-family: 'Quantico', sans-serif;
 }
 
-img{
-	margin: 0px 0px 0px 280px;
-	float: none;
-}
-
 a{
 	color: rgb(233, 132, 48);
 	text-decoration: none;
@@ -51,6 +46,23 @@ a:hover{
 article{
 	border: 3px;
 	background-color:rgba(233, 132, 48,.3);
+	border-radius: 10px;
 	margin: 0px 29px 0px 280px;
-	padding: 0px 0px 20px 60px;
+	padding: 30px 0px 20px 30px;
+	width: 795px
+}
+
+p{
+	-moz-column-count: 2;
+	-moz-column-gap: 20px;
+	text-align: justify;
+	font-family: 'Revalia', cursive;
+	color: gray;
+	line-height: 18px;
+	font-size: 10px;
+	clear: both;
+}
+
+img{
+	border-radius: 10px;
 }
