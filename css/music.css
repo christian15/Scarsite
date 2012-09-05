@@ -1,9 +1,9 @@
-
 body{
 	background-image: url("../images/black-bg.jpg");
 	background-attachment: scroll;
 	margin: 0 150px;
 }
+
 
 h1{
 	font-size: 30px;
@@ -13,15 +13,29 @@ h1{
 	text-shadow: -2px -2px 5px #e98430
 }
 
+
 ul{
 	width:0px;
-	margin: 200px 0px 0px 0px;
+	margin: 51px 0px 0px 0px;
 	list-style-type: none;
 	float: left;
 	font-family: 'Quantico', sans-serif;
 }
 
+a{
+	color: rgb(233, 132, 48);
+	text-decoration: none;
+	background: none;
+	font-size: 20px;
+	line-height: 80px;
+	border-radius: 5px;
+	padding: 0px;
+}
 
+
+a:hover{
+	color: white;
+	background: rgb(233, 132, 48);
 }
 
 
