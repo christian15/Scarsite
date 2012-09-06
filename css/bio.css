@@ -58,7 +58,7 @@ p{
 	text-align: justify;
 	font-family: 'Revalia', cursive;
 	color: gray;
-	line-height: 18px;
+	line-height: 20px;
 	font-size: 10px;
 	clear: both;
 	padding-right: 30px;
@@ -66,4 +66,20 @@ p{
 
 img{
 	border-radius: 10px;
+}
+
+.follow{
+	margin-left: 280px;
+	float: top;
+}
+
+.fb_tw{
+	margin-left: 280px;
+}
+
+.copyright{
+	color: gray;
+	margin: 0px 0px 0px 430px;
+	font-size: 12px;
+	line-height: 50px;
 }

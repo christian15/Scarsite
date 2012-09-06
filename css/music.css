@@ -141,5 +141,8 @@ aside{
 
 .copyright{
 	color: gray;
-	text-align: center;
+	margin: 0px 0px 0px 430px;
+	font-size: 14px;
+	line-height: 50px;
+	font-family: 'Russo One', sans-serif;
 }
