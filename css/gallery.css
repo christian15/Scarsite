@@ -11,3 +11,34 @@ h1{
 	padding-left: 40px;
 	text-shadow: -2px -2px 5px #e98430
 }
+
+
+ol{
+	border: 5px dashed #fff;
+	list-style-type: none;
+	width: 600px;
+	overflow: hidden;
+	padding: 5px;
+	margin: 0px 29px 0px 280px;
+	
+}
+
+.pics:visited{
+	border-color: navy;
+}
+
+.pics:hover{
+	border-color: #f00;
+}
+
+.pics:active{
+	border-color: green;
+}
+
+ul{
+	width:0px;
+	margin: 51px -100px 0px 0px;
+	list-style-type: none;
+	float: left;
+	font-family: 'Quantico', sans-serif;
+}
