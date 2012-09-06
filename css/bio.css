@@ -53,8 +53,14 @@ article{
 }
 
 p{
+	column-count: 2;
+	column-gap: 20px;
 	-moz-column-count: 2;
 	-moz-column-gap: 20px;
+	-o-column-count: 2;
+	-o-column-gap: 20px;
+	-ms-column-count: 2;
+	-ms-column-gap: 20px;
 	text-align: justify;
 	font-family: 'Revalia', cursive;
 	color: gray;
