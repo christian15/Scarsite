@@ -12,33 +12,163 @@ h1{
 	text-shadow: -2px -2px 5px #e98430
 }
 
+h2{
+	margin: 0px 20px 0px 280px;
+	color: grey;
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	padding-bottom: 20px;
+}
 
 ol{
-	border: 5px dashed #fff;
+	border: 3px;
+	background-color:rgba(233, 132, 48,.3);
+	border-radius: 10px;
 	list-style-type: none;
-	width: 600px;
-	overflow: hidden;
 	padding: 5px;
 	margin: 0px 29px 0px 280px;
+}
+
+li{
+	font-family: 'Quantico', sans-serif;
+}
+
+a{
+	color: rgb(233, 132, 48);
+	text-decoration: none;
+	background: none;
+	font-size: 20px;
+	line-height: 80px;
+	border-radius: 5px;
+	padding: 0px;
+}
+
+
+
+
+
+
+
+
+.pic1{
+	display: block;
+	border: 10px solid #000;
+	width: 725px;
+	height: 300px;
+	outline: 0;
+}
+
+.pic1:hover{
+	border-color:rgb(233, 132, 48);
+}
+
+.pic1:visited{
+	border-color: gray;
+}
+
+.pic1:active{
+	border-color: white;
+}
+
+
+.pic2{
+	display: block;
+	border: 10px solid #000;
+	width: 300px;
+	height: 300px;
+	outline: 0;
+}
+
+.pic2:hover{
+	border-color:rgb(233, 132, 48) ;
+}
+
+.pic2:visited{
+	border-color: gray;
+}
+
+.pic2:active{
+	border-color: white;
+}
 	
+	
+
+.pic3{
+	display: block;
+	border: 10px solid #000;
+	width: 300px;
+	height: 300px;
+	outline: 0;
+	float: right;
+	margin: -350px 0px 0px 0px;
 }
 
-.pics:visited{
-	border-color: navy;
+.pic3:hover{
+	border-color:rgb(233, 132, 48) ;
 }
 
-.pics:hover{
-	border-color: #f00;
+.pic3:visited{
+	border-color: gray;
 }
 
-.pics:active{
-	border-color: green;
+.pic3:active{
+	border-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+a:hover{
+	color: white;
+	background: rgb(233, 132, 48);
+}
+
+.pics{
+	margin: 30px;
 }
 
 ul{
 	width:0px;
-	margin: 51px -100px 0px 0px;
+	margin: 0px -100px 0px 0px;
 	list-style-type: none;
 	float: left;
-	font-family: 'Quantico', sans-serif;
+}
+
+
+.follow{
+	margin-left: 280px;
+	float: top;
+	color: rgb(233, 132, 48);
+}
+
+.fb{
+	margin-left: 280px;
+	display: block;
+	width: 40px;
+	height: 50px;
+	float: left;
+}
+	
+.tw{
+	margin-left: 10px;
+	display: block;
+	width: 40px;
+	height: 50px;
+	float: left;
+}
+
+.copyright{
+	color: gray;
+	margin: 60px 0px 0px 450px;
+	font-size: 12px;
+	line-height: 50px;
+	font-family: 'Revalia', cursive;
 }
