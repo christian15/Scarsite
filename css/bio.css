@@ -73,8 +73,20 @@ img{
 	float: top;
 }
 
-.fb_tw{
+.fb{
 	margin-left: 280px;
+	display: block;
+	width: 40px;
+	height: 50px;
+	float: left;
+}
+	
+.tw{
+	margin-left: 10px;
+	display: block;
+	width: 40px;
+	height: 50px;
+	float: left;
 }
 
 .copyright{
