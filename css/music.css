@@ -130,16 +130,19 @@ ol{
 .fb_tw{
 	margin-left: 280px;
 	float: top;
+	color: rgb(233, 132, 48);
+	font-family: 'Revalia', cursive;
+	font-size: 12px;
 }
 .fb{
-display: block;
+	display: block;
 	width: 40px;
 	height: 50px;
 	float: left;
 }
 
 .tw{
-display: block;
+	display: block;
 	width: 40px;
 	height: 50px;
 	float: left;
@@ -156,8 +159,10 @@ aside{
 
 .copyright{
 	color: gray;
-	margin: 80px 0px 0px 430px;
+	margin-top: 80px;
+	margin-left: 200px;
 	font-size: 13px;
 	line-height: 50px;
-	font-family: 'Russo One', sans-serif;
+	font-family: 'Revalia', cursive;
+	text-align: center;
 }

@@ -72,6 +72,7 @@ img{
 .follow{
 	margin-left: 280px;
 	float: top;
+	color: rgb(233, 132, 48);
 }
 
 .fb{
@@ -95,4 +96,5 @@ img{
 	margin: 0px 0px 0px 430px;
 	font-size: 12px;
 	line-height: 50px;
+	font-family: 'Revalia', cursive;
 }
