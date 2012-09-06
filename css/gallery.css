@@ -20,13 +20,20 @@ h2{
 	padding-bottom: 20px;
 }
 
-ol{
+article{
 	border: 3px;
 	background-color:rgba(233, 132, 48,.3);
 	border-radius: 10px;
+	margin: 0px 29px 0px 280px;
+	width: 795px
+}
+
+
+ol{
+	border: 3px;
+	border-radius: 10px;
 	list-style-type: none;
 	padding: 5px;
-	margin: 0px 29px 0px 280px;
 }
 
 li{
@@ -53,7 +60,7 @@ a{
 .pic1{
 	display: block;
 	border: 10px solid #000;
-	width: 725px;
+	width: 705px;
 	height: 300px;
 	outline: 0;
 }
