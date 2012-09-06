@@ -131,6 +131,21 @@ ol{
 	margin-left: 280px;
 	float: top;
 }
+.fb{
+display: block;
+	width: 40px;
+	height: 50px;
+	float: left;
+}
+
+.tw{
+display: block;
+	width: 40px;
+	height: 50px;
+	float: left;
+	margin-left: 10px;
+}
+
 
 p{
 	color: rgb(233, 132, 48);
@@ -141,8 +156,8 @@ aside{
 
 .copyright{
 	color: gray;
-	margin: 0px 0px 0px 430px;
-	font-size: 14px;
+	margin: 80px 0px 0px 430px;
+	font-size: 13px;
 	line-height: 50px;
 	font-family: 'Russo One', sans-serif;
 }
