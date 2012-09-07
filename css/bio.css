@@ -53,14 +53,10 @@ article{
 }
 
 p{
-	column-count: 2;
-	column-gap: 20px;
 	-moz-column-count: 2;
 	-moz-column-gap: 20px;
-	-o-column-count: 2;
-	-o-column-gap: 20px;
-	-ms-column-count: 2;
-	-ms-column-gap: 20px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 20px;
 	text-align: justify;
 	font-family: 'Revalia', cursive;
 	color: gray;
@@ -75,10 +71,13 @@ img{
 	box-shadow: 4px 4px 10px #111;
 }
 
-.follow{
+
+.fb_tw{
 	margin-left: 280px;
 	float: top;
 	color: rgb(233, 132, 48);
+	font-family: 'Revalia', cursive;
+	font-size: 12px;
 }
 
 .fb{

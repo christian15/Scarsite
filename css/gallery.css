@@ -150,10 +150,12 @@ ul{
 }
 
 
-.follow{
+.fbtw{
 	margin-left: 280px;
 	float: top;
 	color: rgb(233, 132, 48);
+	font-family: 'Revalia', cursive;
+	font-size: 12px;
 }
 
 .fb{
