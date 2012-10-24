@@ -1,7 +1,11 @@
 body{
 	background-image: url("../images/black-bg.jpg");
 	background-attachment: scroll;
-	margin: 0 150px;
+	margin: 0 10%;
+}
+
+#main{
+	width: 80%;
 }
 
 
@@ -9,17 +13,17 @@ body{
 h1{
 	font-family: 'Plaster', cursive;
 	color: white;
-	padding-left: 40px;
+	padding-left: 4.5%;
 	text-shadow: -2px -2px 5px #e98430
 }
 
 
 h2{
-	margin: 0px 20px 0px 280px;
+	margin-left: 31%;
 	color: grey;
-	font-size: 25px;
+	font-size: 150%;
 	font-family: 'Russo One', sans-serif;
-	padding-bottom: 20px;
+	padding-bottom: 2%;
 }
 
 
@@ -27,9 +31,9 @@ article{
 	border: 3px;
 	background-color:rgba(233, 132, 48,.3);
 	border-radius: 10px;
-	margin: 0px 29px 0px 280px;
-	padding: 30px 0px 20px 30px;
-	width: 795px
+	margin-left: 31%;
+	padding: 3% 0% 2% 3%;
+	width: 87%;
 }
 
 
@@ -44,8 +48,7 @@ p{
 	text-align: justify;
 	line-height: 35px;
 	font-family: 'Revalia', cursive;	
-	padding: 0px;
-	font-size: 12px;
+	font-size: 80%;
 }
 
 
@@ -57,15 +60,14 @@ strong{
 
 
 .first_paragraph{
-	padding: 0px 20px 0px 0px;
-	margin: 0px 10px 0px -10px;
+	padding: 0% 2% 0% 0%;
+	margin: 0% 1% 0% -1%;
 }
 
 
 .second_paragraph{
-	font-size: 12px;
-	text-indent: 0px;
-	padding: 30px 20px 0px 0px;
+	font-size: 80%;
+	padding: 3% 2% 0% 0%;
 	margin-left: -10px
 }
 
@@ -73,12 +75,15 @@ strong{
 
 
 .release_img{
-	margin-right: 30px;
-	margin-left: 5px;
-	padding-right: 0px;
-	float: none;
+	margin-right: 3%;
+	margin-left: 1.5%;
 	border-radius: 30px;
 	box-shadow: 4px 4px 10px #111;
+	width: 92.250923%; 
+}
+
+img{
+	max-width: 100%
 }
 
 
@@ -87,41 +92,29 @@ strong{
 
 h1{
 	font-family: 'Plaster', cursive;
-	font-size: 30px
+	font-size: 180%;
 }
 
 
 nav{
-	margin: 0px;
-	padding: 0px;
 	float: left;
 }
 
 
-
-
-
-
 ul{
-	width:0px;
-	margin: 0 auto;
 	list-style-type: none;
-	float: none;
 	font-family: 'Quantico', sans-serif;
 }
-
-
 
 
 a{
 	color: rgb(233, 132, 48);
 	text-decoration: none;
 	background: none;
-	font-size: 20px;
+	font-size: 125%;
 	line-height: 80px;
 	border-radius: 5px;
-	padding: 0px;
-}
+	}
 
 
 
@@ -130,23 +123,10 @@ a:hover{
 	background: rgb(233, 132, 48);
 	}
 
-.main_nav{
-	margin: 0px;
-}
 
 .fb_tw{
-	margin-left: 280px;
-	float: top;
-}
-
-
-aside{
-	padding-left: 8px;
-}
-
-.copyright{
 	text-align: center;
-	margin-top: 80px;
+	float: top;
 }
 
 .fb{
@@ -164,3 +144,16 @@ aside{
 	height: 50px;
 	float: left;
 }
+
+
+aside{
+	padding-left: 8%;
+}
+
+.copyright{
+	text-align: center;
+	margin-top: 8%;
+	clear: both;
+}
+
+

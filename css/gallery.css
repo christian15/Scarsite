@@ -1,31 +1,43 @@
 body{
 	background-image: url("../images/black-bg.jpg");
 	background-attachment: scroll;
-	margin: 0 150px;
+	margin: 0 10%;
 }
 
 h1{
-	font-size: 30px;
 	font-family: 'Plaster', cursive;
 	color: white;
-	padding-left: 40px;
+	padding-left: 4.5%;
 	text-shadow: -2px -2px 5px #e98430
 }
 
 h2{
-	margin: 0px 20px 0px 280px;
+	margin-left: 31%;
 	color: grey;
-	font-size: 25px;
+	font-size: 150%;
 	font-family: 'Russo One', sans-serif;
+	padding-bottom: 2%;
 }
 
 article{
 	border: 3px;
 	background-color:rgba(233, 132, 48,.3);
 	border-radius: 10px;
-	margin: 0px 29px 0px 280px;
-	padding: 0px 0px 20px 0px;
-	width: 795px
+	margin-left: 31%;
+	padding: 3% 0% 2% 3%;
+	width: 87%;
+}
+
+#main{
+	width: 80%;
+}
+
+p{
+	color: gray;
+	text-align: justify;
+	line-height: 35px;
+	font-family: 'Revalia', cursive;	
+	font-size: 80%;
 }
 
 
@@ -33,7 +45,7 @@ ol{
 	border: 3px;
 	border-radius: 10px;
 	list-style-type: none;
-	padding: 5px;
+	padding: 0%;
 }
 
 li{
@@ -44,12 +56,10 @@ a{
 	color: rgb(233, 132, 48);
 	text-decoration: none;
 	background: none;
-	font-size: 20px;
+	font-size: 125%;
 	line-height: 80px;
 	border-radius: 5px;
-	padding: 0px;
-}
-
+	}
 
 
 
@@ -139,7 +149,7 @@ a:hover{
 }
 
 .pics{
-	margin: 30px;
+	margin: 3%;
 }
 
 ul{
@@ -151,7 +161,7 @@ ul{
 
 
 .fbtw{
-	margin-left: 280px;
+	text-align: center;
 	float: top;
 	color: rgb(233, 132, 48);
 	font-family: 'Revalia', cursive;
@@ -159,25 +169,21 @@ ul{
 }
 
 .fb{
-	margin-left: 280px;
+	margin-left: 31%;
 	display: block;
-	width: 40px;
-	height: 50px;
+	max-width: 100%;
 	float: left;
 }
 	
 .tw{
-	margin-left: 10px;
+	margin-left: 1%;
 	display: block;
-	width: 40px;
-	height: 50px;
+	max-width: 100%;
 	float: left;
 }
 
 .copyright{
-	color: gray;
-	margin: 60px 0px 0px 450px;
-	font-size: 12px;
-	line-height: 50px;
-	font-family: 'Revalia', cursive;
+	text-align: center;
+	margin-top: 8%;
+	clear: both;
 }
